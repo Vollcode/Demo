@@ -1,4 +1,4 @@
-
+#HELLO
 require 'rspec'
 
 class Game
